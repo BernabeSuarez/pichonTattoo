@@ -1,11 +1,11 @@
 export const dataGallery = [
     {
-        img: "img/A1.jpg",
+        img: "img/A1.webp",
         rows: 2,
         cols: 2,
     },
     {
-        img: "img/A2.jpg"
+        img: "img/A2.webp"
     },
     {
         img: "img/A3.jpg",
@@ -29,6 +29,6 @@ export const dataGallery = [
         img: "img/A8.jpg"
     },
     {
-        img: "img/A9.jpg"
+        img: "img/A9.webp"
     },
 ]
