@@ -1,34 +1,34 @@
 export const dataGallery = [
     {
-        img: "img/a1.jpg",
+        img: "img/A1.jpg",
         rows: 2,
         cols: 2,
     },
     {
-        img: "img/a2.jpg"
+        img: "img/A2.jpg"
     },
     {
-        img: "img/a3.jpg",
+        img: "img/A3.jpg",
         rows: 2
     },
     {
-        img: "img/a4.jpg"
+        img: "img/A4.jpg"
     },
     {
-        img: "img/a5.jpg"
+        img: "img/A5.jpg"
     },
     {
-        img: "img/a6.jpg"
+        img: "img/A6.jpg"
     },
     {
-        img: "img/a7.jpg",
+        img: "img/A7.jpg",
         rows: 2,
         cols: 2
     },
     {
-        img: "img/a8.jpg"
+        img: "img/A8.jpg"
     },
     {
-        img: "img/a9.jpg"
+        img: "img/A9.jpg"
     },
 ]
