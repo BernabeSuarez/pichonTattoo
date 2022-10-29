@@ -31,7 +31,7 @@ const Navbar = () => {
         <Link to="/">Inicio</Link>
         <Link to="/gallery">Galeria</Link>
         <Link to="/contact">Contacto</Link>
-        <Link to="/mapa">Como llegar</Link>
+        {/*<Link to="/mapa">Como llegar</Link>*/}
       </MenuContainer>
     </NavbarContainer>
   );
