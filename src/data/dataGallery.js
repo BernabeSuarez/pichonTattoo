@@ -1,6 +1,6 @@
 export const dataGallery = [
     {
-        img: "img/A1.webp",
+        img: "../assets/img/A1.webp",
         rows: 2,
         cols: 2,
     },
