@@ -17,6 +17,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <H5>Desarrollado por Pichon - 2022</H5>
+      <H5>Vedia - Buenos Aires</H5>
     </FooterContainer>
   );
 };
