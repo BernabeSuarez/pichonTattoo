@@ -8,6 +8,7 @@ import Gallery from './components/gallery/Gallery';
 import { Dialog } from './components/dialog/Dialog';
 import { useOpenImg } from './hooks/useOpenImg'
 import Contact from './components/contact/Contact';
+import Footer from './components/footer/Footer';
 
 function App() {
   const openImg = useOpenImg()
@@ -23,6 +24,7 @@ function App() {
           <Route path="/gallery" element={<Gallery {...openImg} />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
+        <Footer />
       </div>
     </BrowserRouter>
   );

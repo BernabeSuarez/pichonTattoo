@@ -4,7 +4,7 @@ import { mobile, tablet } from "../../utils/media/queries";
 
 const HeroContainer = styled.div`
   width: 100%;
-  height: 100vh;
+  height: 92vh;
   display: flex;
   justify-content: center;
   align-items: flex-end;
