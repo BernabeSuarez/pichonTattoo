@@ -49,7 +49,6 @@ const Gallery = ({ setOpenImage }) => {
         {dataGallery.map((item) => (
           <Imagenes key={item.img} cols={item.cols || 1} rows={item.rows || 1}>
             <img
-              require
               {...srcset(item.img, 121, item.rows, item.cols)}
               alt={item.title}
               loading="lazy"
