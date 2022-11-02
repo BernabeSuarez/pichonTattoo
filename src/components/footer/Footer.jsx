@@ -7,7 +7,7 @@ const FooterContainer = styled.div`
   background-color: black;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
 `;
 const H5 = styled.h5`
